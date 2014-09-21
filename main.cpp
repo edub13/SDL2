@@ -38,9 +38,9 @@ int main(int argc, char** argv){
 	  break;
       }
     }
-    //Logic
-    //Draw
-    //Update
+    //Logic()
+    //Draw()
+    //Update()
   }
   
   SDL_DestroyRenderer(renderer);
